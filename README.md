@@ -4,4 +4,11 @@
 Shell topics :
 -----------
 1. Printing
-2. executing
+2. Variable
+3. Functions
+4. Conditions
+5. Loops
+6. Exit status 
+7. Inputs
+8. Quotas
+9. Redirections
